@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A0E1A"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#B8964A"/>
+  <rect x="0" y="624" width="1200" height="6" fill="#B8964A"/>
+
+  <text x="80" y="120" font-family="JetBrains Mono, ui-monospace, monospace" font-size="18"
+        letter-spacing="3" fill="#B8964A">§ EDITORIAL · PERSONAL BRANDING</text>
+
+  <text x="80" y="240" font-family="Fraunces, Georgia, serif" font-size="92" font-weight="400"
+        fill="#F8F5EF" letter-spacing="-3">Dr. Rachmat</text>
+  <text x="80" y="340" font-family="Fraunces, Georgia, serif" font-size="92" font-weight="400"
+        font-style="italic" fill="#B8964A" letter-spacing="-3">Manggala Purba</text>
+
+  <text x="80" y="430" font-family="Fraunces, Georgia, serif" font-size="30" fill="#EFE9DE"
+        font-style="italic">Penilai Publik · Advokat · Akademisi</text>
+
+  <line x1="80" y1="500" x2="1120" y2="500" stroke="#B8964A" stroke-width="1" opacity="0.5"/>
+
+  <text x="80" y="555" font-family="JetBrains Mono, monospace" font-size="14"
+        letter-spacing="3" fill="#EFE9DE">PENILAIAN ASET · HUKUM · MANAJEMEN</text>
+  <text x="1120" y="555" text-anchor="end" font-family="JetBrains Mono, monospace"
+        font-size="14" letter-spacing="3" fill="#EFE9DE">EST. 1988</text>
+</svg>
